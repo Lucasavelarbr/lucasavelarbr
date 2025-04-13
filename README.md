@@ -10,7 +10,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- ⚖️ Formado em Direito, com experiência de +10 anos nas áreas **jurídica, administrativa e de processos**
+- ⚖️ Ex estudante de Direito, com experiência de +10 anos nas áreas **jurídica, administrativa e de processos**
 - 💻 Em transição de carreira para o **Desenvolvimento de Software**
 - 🌐 Foco atual em **Front-End Web** com HTML, CSS, JavaScript e React
 - 🚀 Buscando oportunidades para evoluir como desenvolvedor e contribuir com times incríveis
