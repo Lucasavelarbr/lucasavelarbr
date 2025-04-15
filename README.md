@@ -23,10 +23,10 @@
 
 ### 📌 Projetos em destaque
 
-🔮 [**Tarot da Jaque**](https://github.com/seu-usuario/tarot-da-jaque)  
+🔮 [**Tarot da Jaque**](https://github.com/Lucasavelarbr/Jaque-Tarot)  
   Um site responsivo, acessível e visualmente elegante, com funcionalidades como modo escuro persistente, cartas interativas, animações suaves, formulário de contato integrado com WhatsApp e mais!
 
-✈️ [**Avelar Turismo**](https://github.com/seu-usuario/avelar-turismo)  
+✈️ [**Avelar Turismo**](https://github.com/Lucasavelarbr/Turismo-Avelar)  
   Site acadêmico para uma agência de turismo fictícia, com foco em experiência do usuário, visual moderno, navegação fluida, formulário de contato funcional e estrutura semântica e otimizada para SEO.
 
 > *Confira mais no repositório! Sempre tenho algo novo sendo testado ou melhorado.*
