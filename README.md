@@ -1,7 +1,6 @@
 # Lucas Brasil
 
-### Front-End Software Engineer • Especialista em Acessibilidade Digital • Content Creator
-### Produtor de conteúdo sobre Acessibilidade Digital no youtube.
+### Front-End Software Engineer • Especialista em Acessibilidade Digital • Criador de conteúdo digital
 
 ---
 
