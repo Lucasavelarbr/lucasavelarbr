@@ -4,8 +4,6 @@
 
 ---
 
-## 🚀 Atualmente
-
 - 💻 Front-End Software Engineer
 - ♿ Especialista em Acessibilidade Digital (WCAG 2.2)
 - 🎥 Criador do canal **Dev sem Barreiras**
