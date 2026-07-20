@@ -1,48 +1,99 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Brasil!</h1>
+# Olá! 👋 Eu sou o Lucas Brasil
 
-<p align="center">
-  <i>Sim, meu sobrenome é Brasil mesmo 😊</i><br>
-  Desenvolvedor Front-End em transição de carreira 
+### Front-End Software Engineer • Especialista em Acessibilidade Digital • Content Creator
+### Produtor de conteúdo sobre Acessibilidade Digital no youtube.
+
+---
+
+## 🚀 Atualmente
+
+- 💻 Front-End Software Engineer
+- ♿ Especialista em Acessibilidade Digital (WCAG 2.2)
+- 🎥 Criador do canal **Dev sem Barreiras**
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌎 Apaixonado por UX, HTML Semântico e Web Inclusiva
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactivex,firebase,git,github,vscode,figma" />
+
 </p>
 
----
+### Também trabalho com
 
-### 👨‍💻 Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- ⚖️ Ex estudante de Direito, com experiência de +10 anos nas áreas **jurídica, administrativa e de processos**
-- 💻 Em transição de carreira para o **Desenvolvimento de Software**
-- 🌐 Foco atual em **Front-End Web** com HTML, CSS, JavaScript e React
-- 🚀 Buscando oportunidades para evoluir como desenvolvedor e contribuir com times incríveis
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="Visual Studio Code"/> </div>
-
-### 📌 Projetos em destaque
-
-🔮 [**Tarot da Jaque**](https://github.com/Lucasavelarbr/Jaque-Tarot)  
-  Um site responsivo, acessível e visualmente elegante, com funcionalidades como modo escuro persistente, cartas interativas, animações suaves, formulário de contato integrado com WhatsApp e mais!
-
-✈️ [**Avelar Turismo**](https://github.com/Lucasavelarbr/Turismo-Avelar)  
-  Site acadêmico para uma agência de turismo fictícia, com foco em experiência do usuário, visual moderno, navegação fluida, formulário de contato funcional e estrutura semântica e otimizada para SEO.
-
-> *Confira mais no repositório! Sempre tenho algo novo sendo testado ou melhorado.*
+- React Native
+- Firebase Authentication
+- Firestore
+- Responsividade
+- SEO
+- Acessibilidade (WCAG)
+- NVDA
+- VoiceOver
+- axe DevTools
+- Lighthouse
 
 ---
 
-### 📫 Vamos conversar?
+# ⭐ Projetos em destaque
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-avelar-42068435a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📬 lucas_2603@hotmail.com
-- 📞 (11) 96576-5805 (Whatsapp)  
-- 🌐 [Meu portfólio](https://seu-portfolio.com) _(em construção)_  
+## 🔮 Tarot da Jaque
+
+Website desenvolvido com foco em performance, acessibilidade e experiência do usuário.
+
+### Destaques
+
+- Dark Mode persistente
+- Responsivo
+- HTML semântico
+- SEO
+- Formulário integrado ao WhatsApp
+- Animações suaves
+- Alto contraste
 
 ---
 
-<div align="center">
-  <strong>Obrigado por visitar meu perfil! 🚀</strong><br>
-  <i>"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende." – Leonardo da Vinci</i>
-</div>
+## 📱 Aplicativo Clínica Escola
+
+Aplicativo desenvolvido em **React Native + Firebase**
+
+### Recursos
+
+- Login
+- Cadastro
+- Firestore
+- Agendamento de consultas
+- Controle de salas
+- Calendário
+- Autenticação
+
+---
+
+## ♿ Projetos de Acessibilidade
+
+Repositórios dedicados a estudos e demonstrações de:
+
+- WCAG 2.2
+- HTML Semântico
+- ARIA
+- Formulários acessíveis
+- Navegação por teclado
+- Contraste de cores
+- Componentes acessíveis
+
+---
+
+# 🌎 Vamos nos conectar?
+
+💼 LinkedIn
+
+🌐 Portfólio
+
+🎥 YouTube
+
+📧 lucas_2603@hotmail.com
+
+---
