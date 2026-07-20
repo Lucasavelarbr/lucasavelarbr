@@ -91,9 +91,11 @@ Repositórios dedicados a estudos e demonstrações de:
   <a href="https://www.linkedin.com/in/lucasavelarbrasil/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://www.youtube.com/@dev.sem.barreiras" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  
   <a href="https://SEU-PORTFOLIO.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
