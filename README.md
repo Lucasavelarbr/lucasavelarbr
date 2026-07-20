@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Lucas Brasil
+# Lucas Brasil
 
 ### Front-End Software Engineer • Especialista em Acessibilidade Digital • Content Creator
 ### Produtor de conteúdo sobre Acessibilidade Digital no youtube.
